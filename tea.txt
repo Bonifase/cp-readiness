@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6A28-DEF7
+
+ Directory of C:\Users\yegon\Desktop\cp-readiness
+
+07-Feb-18  10:53 AM    <DIR>          .
+07-Feb-18  10:53 AM    <DIR>          ..
+07-Feb-18  10:45 AM               356 README.md
+07-Feb-18  10:53 AM                 0 tea.txt
+               2 File(s)            356 bytes
+               2 Dir(s)   4,481,040,384 bytes free
