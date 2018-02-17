@@ -1,0 +1,56 @@
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background: #0D27D3;
+    color: #ffffff;
+    padding-top: 10px;
+    min-height: 50px;
+}
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+header ul{
+    margin: 0;
+    padding: 0;
+}
+header li{
+    float: left;
+    display: inline;
+    padding: 0 10px 0 10px;
+}
+header #branding{
+    float: left;
+}
+header #branding h1{
+    margin: 0;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+#search form{
+    align-self: center;
+}
+#search 
+
+.search-box-wrapper{
+    display: inline-flex;
+    font-size: 20px;
+
+}
+.search-box-input{
+    font-size: inherit;
+    border: 0.2cm border-style #dddddd;
+    border-radius: 0.5em 0 0 0.5em;
+    padding: 0.2em 0.5em;
+    outline: 0;
+}
+
+
+
